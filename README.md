@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;  Front-end of project "projetos - atividades"
 
-&nbsp;&nbsp;  Made in Reactjs using typescript, axios, styled-components, jest, unform
+&nbsp;&nbsp;  Made in Reactjs using typescript, axios, styled-components, jest, unform, yup
 
 &nbsp;&nbsp;  Server url must be configurate at api.ts
 
